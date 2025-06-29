@@ -44,9 +44,10 @@ python -m spacy download es_core_news_sm
 
 ## 📚 Bibliotecas utilizadas
 
-- `NumPy`
-- `Pandas`
-- `Matplotlib`
+- `NumPy` - Para operaciones numéricas y estructuras de datos eficientes.
+- `Pandas` - Para manipulación y análisis de datos tabulares.
+- `Matplotlib` - Para visualización gráfica de los resultados.
+- `Seaborn` - Para visualizaciones estadísticas mejoradas.
 - `spaCy` – Tokenización y lematización en español
 - `nltk` – Stopwords en español
 - `textblob` y `textblob-es` – Análisis de sentimientos
