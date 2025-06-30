@@ -50,7 +50,7 @@ python -m spacy download es_core_news_sm
 - `Seaborn` - Para visualizaciones estadísticas mejoradas.
 - `spaCy` – Tokenización y lematización en español
 - `nltk` – Stopwords en español
-- `textblob` y `textblob-es` – Análisis de sentimientos
+- `textblob` – Análisis de sentimientos
 - `matplotlib` – Visualización de resultados
 - `vaderSentiment` (opcional) – Análisis de polaridad para textos traducidos
 
