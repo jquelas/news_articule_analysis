@@ -44,15 +44,19 @@ python -m spacy download es_core_news_sm
 
 ## 📚 Bibliotecas utilizadas
 
-- `NumPy` - Para operaciones numéricas y estructuras de datos eficientes.
-- `Pandas` - Para manipulación y análisis de datos tabulares.
-- `Matplotlib` - Para visualización gráfica de los resultados.
-- `Seaborn` - Para visualizaciones estadísticas mejoradas.
-- `spaCy` – Tokenización y lematización en español
-- `nltk` – Stopwords en español
-- `textblob` – Análisis de sentimientos
-- `matplotlib` – Visualización de resultados
-- `vaderSentiment` (opcional) – Análisis de polaridad para textos traducidos
+Este proyecto emplea las siguientes bibliotecas de Python:
+
+- `spaCy` – Tokenización, lematización y análisis gramatical (POS) del texto en español.
+- `nltk` – Para la carga y uso de stopwords en español.
+- `textblob` – Análisis básico de sentimientos (polaridad y subjetividad).
+- `pysentimiento` – Análisis de sentimientos avanzado basado en modelos BERT, entrenado en español.
+- `matplotlib` – Visualización gráfica de resultados.
+- `seaborn` – Visualizaciones estadísticas mejoradas.
+- `wordcloud` – Para la generación de nubes de palabras a partir del texto procesado.
+- `pandas` – Manipulación y análisis de datos tabulares.
+- `numpy` – Operaciones numéricas y estructuras de datos eficientes.
+
+> ⚙️ Asegúrate de instalar estas dependencias en tu entorno virtual antes de ejecutar el proyecto.
 
 ---
 
